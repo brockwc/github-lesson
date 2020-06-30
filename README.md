@@ -1,3 +1,3 @@
 # Github Lesson
 
-A repo for demonstrating github use to sei-629.
+A test helped by Brock brought to you by Quinton.
