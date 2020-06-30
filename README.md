@@ -2,6 +2,9 @@
 
 A repo for demonstrating github use to sei-629.
 
+These are more changes 
+
+-contributor Evan D
 
 ## Activity
 1. Fork and clone the repo.
@@ -13,3 +16,4 @@ A repo for demonstrating github use to sei-629.
 # Suuuuuhhhhh Dude 
 
   ![suhhhhh](./img/suh.jpg)
+
